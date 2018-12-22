@@ -1,0 +1,21 @@
+{
+   "checksum": "9cea21ad321b167913a521e6f17439e7",
+   "children": [ {
+      "children": [  ],
+      "date_added": "13187368415763702",
+      "id": "2",
+      "subject": "Other Notes",
+      "type": "other"
+   }, {
+      "children": [  ],
+      "date_added": "13187368415763703",
+      "id": "3",
+      "subject": "Lixeira",
+      "type": "trash"
+   } ],
+   "date_added": "13187368415763700",
+   "id": "1",
+   "subject": "Notes",
+   "type": "folder",
+   "version": 1
+}

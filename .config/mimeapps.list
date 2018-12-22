@@ -1,0 +1,26 @@
+[Added Associations]
+text/x-matlab=org.gnome.gedit.desktop;vim.desktop;
+text/plain=org.gnome.gedit.desktop;vim.desktop;
+application/x-shellscript=org.gnome.gedit.desktop;vim.desktop;
+text/markdown=org.gnome.gedit.desktop;
+audio/mpeg=rhythmbox.desktop;mpv.desktop;
+application/zip=org.gnome.FileRoller.desktop;org.pwmt.zathura-cb.desktop;
+application/x-compressed-tar=org.gnome.FileRoller.desktop;
+text/x-python=org.gnome.gedit.desktop;
+image/jpeg=sxiv.desktop;feh.desktop;
+text/x-chdr=org.gnome.gedit.desktop;
+application/gzip=org.gnome.FileRoller.desktop;
+application/x-tar=org.gnome.FileRoller.desktop;
+image/png=sxiv.desktop;feh.desktop;
+text/css=org.gnome.gedit.desktop;
+application/xml=org.gnome.gedit.desktop;vivaldi-stable.desktop;
+text/x-systemd-unit=org.gnome.gedit.desktop;
+application/pgp-encrypted=org.gnome.gedit.desktop;
+video/x-matroska=vlc.desktop;mpv.desktop;
+text/x-lua=org.gnome.gedit.desktop;
+application/x-perl=org.gnome.gedit.desktop;
+application/x-ruby=org.gnome.gedit.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+text/x-log=org.gnome.gedit.desktop;
+application/x-x509-ca-cert=gcr-viewer.desktop;
+application/json=org.gnome.gedit.desktop;

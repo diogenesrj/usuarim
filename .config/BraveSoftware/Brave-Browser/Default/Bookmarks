@@ -1,0 +1,232 @@
+{
+   "checksum": "fb8b029228ec2dadf32c66275b147468",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13187049632000000",
+            "id": "5",
+            "name": "Introdução",
+            "type": "url",
+            "url": "https://www.mozilla.org/pt-BR/firefox/central/"
+         }, {
+            "date_added": "13138843376000000",
+            "id": "6",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13159505203000000",
+                  "id": "9",
+                  "name": "Ajuda e tutoriais",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/pt-BR/products/firefox"
+               }, {
+                  "date_added": "13187049632000000",
+                  "id": "10",
+                  "name": "Personalizar Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/pt-BR/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13187049632000000",
+                  "id": "11",
+                  "name": "Envolva-se",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/pt-BR/contribute/"
+               }, {
+                  "date_added": "13187049632000000",
+                  "id": "12",
+                  "name": "Quem somos",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/pt-BR/about/"
+               }, {
+                  "date_added": "13159504949000000",
+                  "id": "18",
+                  "name": "Personalizar Firefox",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/pt-BR/firefox/customize/"
+               } ],
+               "date_added": "13189480894021305",
+               "date_modified": "0",
+               "id": "8",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13138843376000000",
+                  "id": "14",
+                  "name": "Ubuntu",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "13138843376000000",
+                  "id": "15",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13138843376000000",
+                  "id": "16",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13138843376000000",
+                  "id": "17",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               } ],
+               "date_added": "13189480894021814",
+               "date_modified": "0",
+               "id": "13",
+               "name": "Ubuntu and Free Software links",
+               "type": "folder"
+            }, {
+               "date_added": "13138843376000000",
+               "id": "19",
+               "name": "Help and Tutorials",
+               "type": "url",
+               "url": "https://www.mozilla.org/en-US/firefox/help/"
+            }, {
+               "children": [ {
+                  "date_added": "13140549042000000",
+                  "id": "21",
+                  "name": "OCW Course Index | MIT OpenCourseWare | Free Online Course Materials",
+                  "type": "url",
+                  "url": "https://ocw.mit.edu/courses/"
+               }, {
+                  "date_added": "13139621875000000",
+                  "id": "22",
+                  "name": "Main page (Português) - ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/index.php/Main_page_(Portugu%C3%AAs)"
+               }, {
+                  "date_added": "13139066458000000",
+                  "id": "23",
+                  "name": "papeis de parede arch linux - Pesquisa Google",
+                  "type": "url",
+                  "url": "https://www.google.com.br/search?q=papeis+de+parede+arch+linux&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjX94SOr-rTAhVCEZAKHZc5CTgQ7AkINw&biw=1366&bih=669#imgrc=ra3h2UarTeBGPM:"
+               }, {
+                  "date_added": "13153774708000000",
+                  "id": "24",
+                  "name": "Filmes Online HD7 Assistir Filmes e Séries Online HD,720p,1080p - Assistir filmes online hd grátis sem cadastro basta dar play Filmes Online HD7 Assistir Filmes e Séries Online HD,720p,1080p",
+                  "type": "url",
+                  "url": "http://www.filmesonlinehd7.cc/"
+               }, {
+                  "date_added": "13154038627000000",
+                  "id": "25",
+                  "name": "4shared.com - armazenamento e compartilhamento de arquivos grátis",
+                  "type": "url",
+                  "url": "https://www.4shared.com/?locale=pt-BR"
+               }, {
+                  "date_added": "13156462230000000",
+                  "id": "26",
+                  "name": "Google Tradutor",
+                  "type": "url",
+                  "url": "https://translate.google.com.br/?hl=pt-BR"
+               }, {
+                  "date_added": "13157288089000000",
+                  "id": "27",
+                  "name": "1000 livros gratuitos sobre programação! - Código Simples .NET",
+                  "type": "url",
+                  "url": "https://codigosimples.net/2016/02/12/1000-livros-gratuitos-sobre-programacao/"
+               }, {
+                  "date_added": "13157847681000000",
+                  "id": "28",
+                  "name": "Mr. Robot – NetCine",
+                  "type": "url",
+                  "url": "http://netcine.us/tvshows/mr-robot/"
+               }, {
+                  "date_added": "13160875469000000",
+                  "id": "29",
+                  "name": "#abstract, #3D | Wallpaper No. 611540 - wallhaven.cc",
+                  "type": "url",
+                  "url": "https://alpha.wallhaven.cc/wallpaper/611540"
+               }, {
+                  "date_added": "13163039131000000",
+                  "id": "30",
+                  "name": "https://www.facebook.com/diogenes.rodrigues.505",
+                  "type": "url",
+                  "url": "view-source:https://www.facebook.com/diogenes.rodrigues.505"
+               }, {
+                  "date_added": "13169694425000000",
+                  "id": "31",
+                  "name": "Google",
+                  "type": "url",
+                  "url": "https://www.google.com.br/"
+               }, {
+                  "date_added": "13170634880000000",
+                  "id": "32",
+                  "name": "Como criar um pen drive bootável do Windows no Linux - Blog Opção Linux",
+                  "type": "url",
+                  "url": "https://www.blogopcaolinux.com.br/2017/03/Como-criar-um-pen-drive-bootavel-do-Windows-no-Linux.html"
+               }, {
+                  "date_added": "13172199887000000",
+                  "id": "33",
+                  "name": "Adicionando chaves públicas ao Arch Linux – sistematico – a.k.a. Lucas Saliés Brum",
+                  "type": "url",
+                  "url": "https://sistematico.github.io/adicionando-chaves-publicas-ao-arch-linux/"
+               }, {
+                  "date_added": "13174594270000000",
+                  "id": "34",
+                  "name": "Rumo ao Hexa - Russia 2018 ★ Prêmios, Vencedores",
+                  "type": "url",
+                  "url": "https://www.rivalo.com/pt/RumoaoHexa/"
+               }, {
+                  "date_added": "13186723514000000",
+                  "id": "35",
+                  "name": "GitHub - szorfein/dotfiles: Dotfiles for unix.",
+                  "type": "url",
+                  "url": "https://github.com/szorfein/dotfiles"
+               }, {
+                  "date_added": "13187235770000000",
+                  "id": "36",
+                  "name": "Mutt + Gmail + Offlineimap",
+                  "type": "url",
+                  "url": "https://pbrisbin.com/posts/mutt_gmail_offlineimap/"
+               }, {
+                  "date_added": "13187324462000000",
+                  "id": "37",
+                  "name": "Wallpaper Night, The city, Forest, Monster, Clouds, The tentacles, Fantasy, Art, Lovecraft, Science Fiction, Guillem H. Pongiluppi, Environments, by Guillem H. Pongiluppi, The Fear from beyond - New England village images for desktop, section фантастика - download",
+                  "type": "url",
+                  "url": "https://www.goodfon.com/wallpaper/art-tuchi-gorod-monstr-noch-les.html"
+               } ],
+               "date_added": "13189480894022263",
+               "date_modified": "0",
+               "id": "20",
+               "name": "unfiled",
+               "type": "folder"
+            } ],
+            "date_added": "13189480894020657",
+            "date_modified": "0",
+            "id": "7",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13189480795320002",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13189480795320012",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13189480795320028",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Favoritos de dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
